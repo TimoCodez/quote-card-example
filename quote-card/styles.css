@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #121212;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+
+.card-image {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.quote,
+.name {
+  margin: 10px 0;
+}

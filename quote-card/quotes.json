@@ -1,0 +1,57 @@
+[
+    {
+      "image": "image1.jpg",
+      "name": "Ellie",
+      "quotes": [
+        "Quote 1 by Person 1",
+        "Quote 2 by Person 1",
+        "Quote 3 by Person 1",
+        "Quote 4 by Person 1",
+        "Quote 5 by Person 1",
+        "Quote 6 by Person 1",
+        "Quote 7 by Person 1",
+        "Quote 8 by Person 1",
+        "Quote 9 by Person 1",
+        "Quote 10 by Person 1",
+        "Quote 11 by Person 1",
+        "Quote 12 by Person 1"
+      ]
+    },
+    {
+      "image": "image2.jpg",
+      "name": "Eddie",
+      "quotes": [
+        "Quote 1 by Person 2",
+        "Quote 2 by Person 2",
+        "Quote 3 by Person 2",
+        "Quote 4 by Person 2",
+        "Quote 5 by Person 2",
+        "Quote 6 by Person 2",
+        "Quote 7 by Person 2",
+        "Quote 8 by Person 2",
+        "Quote 9 by Person 2",
+        "Quote 10 by Person 2",
+        "Quote 11 by Person 2",
+        "Quote 12 by Person 2"
+      ]
+    },
+    {
+      "image": "image3.jpg",
+      "name": "Jason",
+      "quotes": [
+        "Quote 1 by Person 3",
+        "Quote 2 by Person 3",
+        "Quote 3 by Person 3",
+        "Quote 4 by Person 3",
+        "Quote 5 by Person 3",
+        "Quote 6 by Person 3",
+        "Quote 7 by Person 3",
+        "Quote 8 by Person 3",
+        "Quote 9 by Person 3",
+        "Quote 10 by Person 3",
+        "Quote 11 by Person 3",
+        "Quote 12 by Person 3"
+      ]
+    }
+  ]
+  
